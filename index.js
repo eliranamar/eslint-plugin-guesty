@@ -8,6 +8,7 @@
 
 const allRules = {
   "no-bootstrap-classes": require("./lib/rules/no-bootstrap-classes"),
+  "no-bootstrap-guesty-classes": require("./lib/rules/no-bootstrap-guesty-classes"),
   "no-testing": require("./lib/rules/no-testing"),
   "no-css-import": require("./lib/rules/no-css-import"),
 };

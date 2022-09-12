@@ -10,6 +10,9 @@ name: npm package publish
 on:
   release:
     types: [created]
+  push:
+    branches:
+      - master
 
 jobs:
   build:
