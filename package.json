@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-guesty",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Guesty Inc. common best practices",
   "main": "index.js",
   "scripts": {
